@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ksa-futurebank/static/css/main.f8f3f8f8.css",
-    "main.js": "/ksa-futurebank/static/js/main.6d22b45d.js",
+    "main.js": "/ksa-futurebank/static/js/main.c6cc33d6.js",
     "static/js/894.80fd265c.chunk.js": "/ksa-futurebank/static/js/894.80fd265c.chunk.js",
     "static/js/886.3acc76a2.chunk.js": "/ksa-futurebank/static/js/886.3acc76a2.chunk.js",
     "static/js/518.8d41115d.chunk.js": "/ksa-futurebank/static/js/518.8d41115d.chunk.js",
@@ -45,7 +45,7 @@
     "static/media/solutions-business-bg.png": "/ksa-futurebank/static/media/solutions-business-bg.4232dadf2ef62df7ea54.png",
     "index.html": "/ksa-futurebank/index.html",
     "main.f8f3f8f8.css.map": "/ksa-futurebank/static/css/main.f8f3f8f8.css.map",
-    "main.6d22b45d.js.map": "/ksa-futurebank/static/js/main.6d22b45d.js.map",
+    "main.c6cc33d6.js.map": "/ksa-futurebank/static/js/main.c6cc33d6.js.map",
     "894.80fd265c.chunk.js.map": "/ksa-futurebank/static/js/894.80fd265c.chunk.js.map",
     "886.3acc76a2.chunk.js.map": "/ksa-futurebank/static/js/886.3acc76a2.chunk.js.map",
     "518.8d41115d.chunk.js.map": "/ksa-futurebank/static/js/518.8d41115d.chunk.js.map",
@@ -54,6 +54,6 @@
   },
   "entrypoints": [
     "static/css/main.f8f3f8f8.css",
-    "static/js/main.6d22b45d.js"
+    "static/js/main.c6cc33d6.js"
   ]
 }
