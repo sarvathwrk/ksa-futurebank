@@ -84,9 +84,12 @@ function Header() {
                   id="navbar-content"
                 >
                   <div className="right-area header-action d-flex align-items-center">
-                    <a className="cmn-btn" href="/Login">
+                    <Link to={"/Login"} className="cmn-btn" aria-current="page">
                       Login
-                    </a>
+                    </Link>
+                    {/* <a className="cmn-btn" href="/Login">
+                      Login
+                    </a> */}
                   </div>
                 </div>
               </nav>
