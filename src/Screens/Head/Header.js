@@ -6,6 +6,14 @@ function Header() {
   const [newNoti, setnewNoti] = useState("/");
   const location = useLocation();
   useEffect(() => {
+    console.log(location);
+    if (location.pathname == "/ksa-futurebank/") {
+      setTimeout(() => {
+        // window.location.pathname = "/";
+        window.history.replaceState(null, "New Page Title", "/Contact");
+      }, 3000);
+    }
+
     setnewNoti(location.pathname);
   }, [location]);
 

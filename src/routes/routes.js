@@ -16,10 +16,10 @@ const public_head = [
     link: "/",
     compenent: Home,
   },
-  {
-    link: "/ksa-futurebank/",
-    compenent: Home,
-  },
+  // {
+  //   link: "/ksa-futurebank/",
+  //   compenent: Home,
+  // },
   {
     link: "/Contact",
     compenent: Contact,
