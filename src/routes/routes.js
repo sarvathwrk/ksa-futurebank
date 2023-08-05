@@ -17,6 +17,10 @@ const public_head = [
     compenent: Home,
   },
   {
+    link: "/ksa-futurebank/",
+    compenent: Home,
+  },
+  {
     link: "/Contact",
     compenent: Contact,
   },
