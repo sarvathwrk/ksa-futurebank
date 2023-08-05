@@ -16,7 +16,7 @@ function Header() {
           <div className="container">
             <div className="row d-flex header-area">
               <nav className="navbar sticky-top navbar-expand-lg navbar-light">
-                <a className="navbar-brand" href="/">
+                <a className="navbar-brand" href="/ksa-futurebank/">
                   <img
                     alt="logo"
                     src={ReactLogo}
