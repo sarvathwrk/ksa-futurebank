@@ -25,6 +25,10 @@ const public_head = [
     link: "/Login",
     compenent: Login,
   },
+  {
+    link: "/ksa-futurebank",
+    compenent: Home,
+  },
 ];
 export default function RouteApp() {
   return (

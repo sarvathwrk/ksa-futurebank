@@ -10,7 +10,7 @@ function Header() {
     if (location.pathname == "/ksa-futurebank/") {
       setTimeout(() => {
         // window.location.pathname = "/";
-        window.location.pathname = "/";
+        // window.location.pathname = "/";
       }, 3000);
     }
 
